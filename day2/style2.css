@@ -1,0 +1,20 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+
+}
+#myid1{
+    background-color: aqua;
+    font-size: 20px;
+
+}
+#myid2{
+    background-color: green;
+    font-size: 20px;
+}
+.myclass{
+    color: blueviolet;
+}
+
+
